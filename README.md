@@ -1,11 +1,11 @@
 ## How to use
 
-[Clone the repo](https://github.com/jeremygordillo/reviva-test):
+Clone the repo:
 
 <!-- #default-branch-switch -->
 
 ```sh
-git clone https://github.com/jeremygordillo/reviva-test
+git clone https://github.com/jeremygordillo/reviva-test.git
 cd reviva-test
 ```
 
