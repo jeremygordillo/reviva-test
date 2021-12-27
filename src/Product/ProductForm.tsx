@@ -119,7 +119,8 @@ const ProductForm = React.forwardRef<HTMLFormElement, ProductFormProps>(
             onChange={handleChange("price")}
             startAdornment={<InputAdornment position="start">$</InputAdornment>}
             inputProps={{
-              thousandSeparator: true
+              thousandSeparator: true,
+              allowNegative: false
             }}
           />
         </FormControl>
